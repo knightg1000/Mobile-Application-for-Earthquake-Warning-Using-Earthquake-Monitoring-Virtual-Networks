@@ -10,3 +10,4 @@ Earthquake Warning Using Earthquake Monitoring Virtual Networks will use server
 information used as earthquake data and used as information in earthquake alerts on
 mobile applications for earthquake alerts to ensure that the information is correct and
 allows users to quickly plan their defenses
+![Alt text](relative%20path/to/สกรีนช็อต 2024-05-22 002637.png?raw=true "Title")
